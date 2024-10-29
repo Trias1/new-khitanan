@@ -4,7 +4,6 @@ import { FaBookOpen } from "react-icons/fa";
 import Image from "next/image";
 
 export default function modal({ isPlaying, setIsPlaying }: any) {
-
   const onPlaySound = () => {
     setIsPlaying(true);
   };
@@ -26,8 +25,8 @@ export default function modal({ isPlaying, setIsPlaying }: any) {
                       src="/img/ws.png"
                       className="rounded-circle "
                       layout="responsive"
-                      width={50} 
-                      height={50} 
+                      width={50}
+                      height={50}
                     />
                   </div>
                   <p className="nameUndangan fw-bold fs-3 text-white mt-3 mb-3">
