@@ -3,14 +3,16 @@
   margin-bottom: -2rem !important;
 }
 
-.about__me-image h4 {
-  margin-bottom: 1rem;
-}
 .about__me-image h5 {
   margin-bottom: -5rem;
 }
 
 .invitation-message {
+  text-align: center; /* Membuat teks menjadi justify */
+}
+
+
+.invitation-messages {
   text-align: center; /* Membuat teks menjadi justify */
 }
 

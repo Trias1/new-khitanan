@@ -51,6 +51,12 @@ export default function Invitation() {
             <h3 className="text-assalamualaikum z-index-2 position-relative">
               Wassalamu&#39;alaikum Wr. Wb.
             </h3>
+            <h4 className="invitation-message">
+              Hormat kami,
+            </h4>
+            <h4 className="invitation-message">
+              Bapak Andres & Ibu Kiki(mama wira)
+            </h4>
           </div>
         </div>
       </div>
