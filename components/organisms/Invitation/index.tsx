@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
-import bismillah2 from "../../../public/icon/Bismillah.svg";
 import { MdDateRange } from "react-icons/md";
 import { GoLocation } from "react-icons/go";
 import { BsClock } from "react-icons/bs";
+import bismillah2 from "../../../public/icon/Bismillah.svg";
 
 export default function Invitation() {
   return (

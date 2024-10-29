@@ -3,7 +3,7 @@ import Script from "next/script";
 import { FaBookOpen } from "react-icons/fa";
 import Image from "next/image";
 
-export default function modal({ isPlaying, setIsPlaying }: any) {
+export default function modal({ setIsPlaying }: any) {
   const onPlaySound = () => {
     setIsPlaying(true);
   };
