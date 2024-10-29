@@ -20,7 +20,7 @@ export default function Maps() {
               />
             </div>
             <a
-              href="https://www.google.com/maps/place/Jl.+Kapten+Heru+Suryadi+No.106,+Cisadap,+Kec.+Ciamis,+Kabupaten+Ciamis,+Jawa+Barat+46215,+Indonesia/@-7.313052,108.315476,13z/data=!4m5!3m4!1s0x2e6f5958c6f84799:0x7479bb95ef5f06c9!8m2!3d-7.3130519!4d108.3154755?hl=en-US"
+              href="https://maps.app.goo.gl/rijzV6oCaRdoTh9b9"
               className="btn btn-maps"
             >
               Buka Maps
