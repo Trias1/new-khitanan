@@ -1,0 +1,33 @@
+.card-bodyyss {
+  background: #e3d1b8;
+  color: var(--color-white);
+  border-radius: 0.7rem;
+  border: 1px solid transparent;
+  text-align: justify;
+}
+
+.card-bodys .btn-kirim-undangan {
+  padding: 15px 30px;
+  border-radius: 0.4rem;
+  letter-spacing: 2px;
+  margin-top: 10px;
+  border: 1px solid var(--color-bg);
+  background: var(--color-bg);
+  color: #fff;
+}
+.card-bodys .btn-kirim-undangan:hover {
+  color: var(--color-bg);
+  background: none;
+  color: #000000;
+}
+
+.btn-refresh-undangan {
+  border: 1px solid var(--color-bg);
+  background: var(--color-bg);
+  color: #fff;
+}
+.btn-refresh-undangan:hover {
+  color: var(--color-bg);
+  background: none;
+  color: #000000;
+}
