@@ -13,8 +13,6 @@ import Footer from "../components/organisms/Footer";
 export default function Home() {
   const [isPlaying, setIsPlaying] = useState(true);
 
-  const [bookId, setBookId] = useState("");
-
   return (
     <>
       <Modal isPlaying={isPlaying} setIsPlaying={setIsPlaying} />

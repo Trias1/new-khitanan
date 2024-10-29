@@ -1,10 +1,9 @@
-import React, { useRef } from "react";
+import React from "react";
 import Script from "next/script";
 import { FaBookOpen } from "react-icons/fa";
 import Image from "next/image";
 
 export default function modal({ isPlaying, setIsPlaying }: any) {
-  const audioElem = useRef() as React.MutableRefObject<HTMLAudioElement>;
 
   const onPlaySound = () => {
     setIsPlaying(true);
