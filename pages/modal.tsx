@@ -8,19 +8,9 @@ export default function modal({ isPlaying, setIsPlaying }: any) {
 
   const onPlaySound = () => {
     setIsPlaying(true);
-    // if (isPlaying) {
-    //   audioElem.current.play();
-    // } else {
-    //   audioElem.current.pause();
-    // }
   };
   return (
     <>
-      {/* <div className="sound">
-        <audio src="/audio/westlife.mp3" ref={audioElem}>
-          <track kind="captions" />
-        </audio>
-      </div> */}
       <div
         className="modal fade"
         id="exampleModal"
