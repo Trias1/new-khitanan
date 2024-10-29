@@ -10,7 +10,7 @@ export default function Footer() {
           <h4>&copy; By Wira Al Kahfi</h4>
         </div>
         <a href="/#" className="footer__logo">
-          Powered by Trias Zaen Mutaqin
+          Powered by Trias
         </a>
         <div className="footer__socials">
           <a href="https://www.instagram.com/tzm_12/">
